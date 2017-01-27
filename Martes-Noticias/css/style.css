@@ -1,0 +1,22 @@
+.circulo{
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  border-radius: 50px;
+}
+
+.circulo2{
+  background-color: blue;
+}
+
+#cuadrado{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  margin-top: 10px;
+}
+
+iframe{
+  height: 700px;
+  width: 700px;
+}
